@@ -1,0 +1,47 @@
+## Interface: 11200
+
+## Title: GuiaPhermuth |cff7fff7f -Ace2-|r
+## Notes: Powerleveling guide framework
+## Author: GuiaPhermuth
+## Version: 1.0
+## X-Credits: GuiaPhermuth
+## X-Category: Quest
+## X-Website: https://github.com/phermuth/GuiaPhermuth
+
+## SavedVariables: GuiaPhermuthAlphaDB
+
+## OptionalDeps: TomTom, pfQuest, Ace2, FuBar, FuBarPlugin-2.0, Deformat, TabletLib, DewdropLib, GratuityLib
+
+# libs Core
+libs\AceLibrary\AceLibrary.lua
+libs\AceOO-2.0\AceOO-2.0.lua
+libs\AceConsole-2.0\AceConsole-2.0.lua
+libs\AceEvent-2.0\AceEvent-2.0.lua
+libs\AceDebug-2.0\AceDebug-2.0.lua
+libs\AceDB-2.0\AceDB-2.0.lua
+libs\AceAddon-2.0\AceAddon-2.0.lua
+libs\AceHook-2.1\AceHook-2.1.lua
+# libs Extra
+libs\Deformat-2.0\Deformat-2.0.lua
+libs\Gratuity-2.0\Gratuity-2.0.lua
+libs\Dewdrop-2.0\Dewdrop-2.0.lua
+libs\Tablet-2.0\Tablet-2.0.lua
+libs\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
+
+# Addon files
+Locale.lua
+GuiaPhermuth.lua
+WidgetWarlock.lua
+Parser.lua
+Mapping.lua
+StatusFrame.lua
+OptionsFrame.lua
+GuideListFrame.lua
+ObjectivesFrame.lua
+UnlistedQuest.lua
+QuestTracking.lua
+
+NilGuide.lua
+
+GuiaPhermuth_Alliance\Guides.xml
+GuiaPhermuth_Horde\Guides.xml
