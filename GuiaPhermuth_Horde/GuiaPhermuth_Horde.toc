@@ -2,9 +2,9 @@
 
 ## Title: GuiaPhermuth_Horde
 ## Notes: Powerleveling guide framework
-## Author: GuiaPhermuth
+## Author: Phermuth
 ## Version: 1.0
-## X-Credits: GuiaPhermuth
+## X-Credits: Phermuth
 ## X-Category: Quest
 
 ## RequiredDeps: GuiaPhermuth-Turtle
