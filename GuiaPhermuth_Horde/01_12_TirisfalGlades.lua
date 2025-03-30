@@ -1,4 +1,4 @@
-GuiaPhermuth:RegisterGuide("TirisfalGlades(1-12)", "Silverpine Forest (12-20)", "Horde",function()
+GuiaPhermuth:RegisterGuide("Tirisfal (1-12)", "Silverpine Forest (12-20)", "Horde",function()
 
 return [[
 
