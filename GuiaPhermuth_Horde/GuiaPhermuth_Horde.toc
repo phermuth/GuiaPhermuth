@@ -7,7 +7,7 @@
 ## X-Credits: Phermuth
 ## X-Category: Quest
 
-## RequiredDeps: GuiaPhermuth-Turtle
+## RequiredDeps: GuiaPhermuth
 ## OptionalDeps: Dongle, TomTom, LightHeaded, pfQuest
 
 ## LoadManagers: AddonLoader

@@ -1,4 +1,4 @@
-# GuiaPhermuth-Turtle
+# GuiaPhermuth
 Tekkub's GuiaPhermuth Addon backported for WoW 1.12 *with tweaks for TurtleWoW*
 
 Recommended Downloads: [**pfQuest & pfUI**](https://shagu.org) | [**TomTomVanilla**](https://github.com/cralor/TomTomVanilla/releases/latest)
