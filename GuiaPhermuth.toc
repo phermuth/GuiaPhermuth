@@ -2,11 +2,11 @@
 
 ## Title: GuiaPhermuth |cff7fff7f -Ace2-|r
 ## Notes: Powerleveling guide framework
-## Author: GuiaPhermuth
+## Author: Phermuth
 ## Version: 1.0
-## X-Credits: GuiaPhermuth
+## X-Credits: Phermuth
 ## X-Category: Quest
-## X-Website: https://github.com/phermuth/GuiaPhermuth
+## X-Website: https://github.com/phermuth/GuiaPhermuth#
 
 ## SavedVariables: GuiaPhermuthAlphaDB
 
